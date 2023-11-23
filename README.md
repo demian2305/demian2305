@@ -1,10 +1,10 @@
 # Mi nombre es: Demian Heis
 
 ```
-Tengo 17 años
+Tengo 18 años
 ```
 
-* __Estoy en 6to 2da Aviónica__
+* __Estoy en 7to 2da Aviónica__
 
 * _Soy de Boca_
 
